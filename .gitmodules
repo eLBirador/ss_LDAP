@@ -1,0 +1,3 @@
+[submodule "silverstripe-activedirectory"]
+	path = silverstripe-activedirectory
+	url = https://github.com/eLBirador/silverstripe-activedirectory
